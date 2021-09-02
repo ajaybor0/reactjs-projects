@@ -4,7 +4,7 @@ A simple contacts list web application created using React JS.
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/yRtJR8k)
+![App Screenshot](https://i.ibb.co/CtgFtn9/Screenshot-75.png)
 
 ## Demo
 
